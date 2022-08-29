@@ -11,9 +11,25 @@ comments: false
 
 ## Publications
 
+10. [Cross-Lingual 
+Dialogue Dataset Creation via Outline-Based Generation](https://arxiv.org/pdf/2201.13405.pdf)<br/>
+Olga Majewska\*, <b>Evgeniia Razumovskaia\*</b>, Edoardo M. Ponti, Ivan Vulić and Anna Korhonen<br/>
+(under review)
 
-7. [Crossing the Conversational Chasm: A Primer on Natural Language Processing for Multilingual Task-Oriented Dialogue Systems](https://arxiv.org/abs/2104.08570)<br/>
+9. [Data Augmentation and Learned Layer Aggregation for Improved Multilingual Language Understanding in Dialogue](https://aclanthology.org/2022.findings-acl.160/)<br/>
+**Evgeniia Razumovskaia**, Ivan Vulić and Anna Korhonen<br/> 
+Published in <i>Findings of 
+the Association for Computational Linguistics (ACL), </i> 2017–2033, 2022.
+
+
+8. [Natural Language 
+Processing for Multilingual Task-Oriented Dialogue](https://aclanthology.org/2022.acl-tutorials.8/)<br/>
+**Evgeniia Razumovskaia**, Goran Glavaš, Olga Majewska, Edoardo M. Ponti, and Ivan Vulić <br/>
+Published in <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL): Tutorial Abstracts,</i> 44–50, 2022.
+
+7. [Crossing the Conversational Chasm: A Primer on Natural Language Processing for Multilingual Task-Oriented Dialogue Systems](https://www.jair.org/index.php/jair/article/view/13083)<br/>
 **Evgeniia Razumovskaia**, Goran Glavaš, Olga Majewska, Edoardo M. Ponti, Anna Korhonen and Ivan Vulić <br/>
+Published in <i>Journal of Artificial Intelligence Research, 74,</i>  1351-1402, 2022.
 
 6. [Incorporating rules into end-to-end dialog systems.](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Papers/43.pdf)<br/> 
 **Razumovskaia, E.** and Eskenazi, M. <br/>
@@ -47,6 +63,10 @@ Computing and next Generations” Proceedings</i>, 285-297, 2015.
 
 
 ## Talks
+
+2. [Natural Language Processing for Multilingual Task-Oriented Dialogue](https://docs.google.com/presentation/d/1TOoGMrCkeWIALhvuzbXnZxG8ZTAmi_1_UTIemCUsr6U/edit?usp=sharing)<br/>
+<i>with Goran Glavaš, Olga Majewska, Edoardo M. Ponti, and Ivan Vulić</i><br/>
+**Tutorial at ACL 2022** presenting the state of the area, latest developments and future directions of multilingual dialogue<br/> 
 
 1. [End-to-end dialogue systems, or a feature which wasn’t meant to happen](https://www.youtube.com/watch?v=27rH1JfxvzI&t=11s)<br/>
 Talk at **Rasa Summit 2021** summarising the work I did during my internship at Rasa<br/>
