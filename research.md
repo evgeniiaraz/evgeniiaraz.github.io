@@ -14,7 +14,7 @@ comments: false
 10. [Cross-Lingual 
 Dialogue Dataset Creation via Outline-Based Generation](https://arxiv.org/pdf/2201.13405.pdf)<br/>
 Olga Majewska\*, <b>Evgeniia Razumovskaia\*</b>, Edoardo M. Ponti, Ivan Vulić and Anna Korhonen<br/>
-(under review)
+under review
 
 9. [Data Augmentation and Learned Layer Aggregation for Improved Multilingual Language Understanding in Dialogue](https://aclanthology.org/2022.findings-acl.160/)<br/>
 **Evgeniia Razumovskaia**, Ivan Vulić and Anna Korhonen<br/> 
@@ -66,7 +66,7 @@ Computing and next Generations” Proceedings</i>, 285-297, 2015.
 
 2. [Natural Language Processing for Multilingual Task-Oriented Dialogue](https://docs.google.com/presentation/d/1TOoGMrCkeWIALhvuzbXnZxG8ZTAmi_1_UTIemCUsr6U/edit?usp=sharing)<br/>
 <i>with Goran Glavaš, Olga Majewska, Edoardo M. Ponti, and Ivan Vulić</i><br/>
-**Tutorial at ACL 2022** presenting the state of the area, latest developments and future directions of multilingual dialogue<br/> 
+**Tutorial at ACL 2022** presenting the state of the area, latest developments and future directions for multilingual dialogue<br/> 
 
 1. [End-to-end dialogue systems, or a feature which wasn’t meant to happen](https://www.youtube.com/watch?v=27rH1JfxvzI&t=11s)<br/>
 Talk at **Rasa Summit 2021** summarising the work I did during my internship at Rasa<br/>
