@@ -11,21 +11,30 @@ comments: false
 
 ## Publications
 
+12. Transfer-Free Data-Efficient Multilingual Slot Labeling<br/>
+<b>Evgeniia Razumovskaia</b>, Ivan Vulić, and Anna Korhonen.<br/>
+Published in <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)</i>, to appear.
+
+11. [Multi3NLU++: A Multilingual, Multi-Intent, Multi-Domain Dataset for Natural Language Understanding in Task-Oriented Dialogue](https://aclanthology.org/2023.findings-acl.230.pdf)<br/>
+Nikita Moghe, <b>Evgeniia Razumovskaia</b>, Liane Guillou, Ivan Vulić, Anna Korhonen, Alexandra Birch<br/>
+Published in <i>Findings of 
+the Association for Computational Linguistics (ACL 2023), </i> 3732–3755, 2023.
+
 10. [Cross-Lingual 
-Dialogue Dataset Creation via Outline-Based Generation](https://arxiv.org/pdf/2201.13405.pdf)<br/>
+Dialogue Dataset Creation via Outline-Based Generation](https://aclanthology.org/2023.tacl-1.9.pdf)<br/>
 Olga Majewska\*, <b>Evgeniia Razumovskaia\*</b>, Edoardo M. Ponti, Ivan Vulić and Anna Korhonen<br/>
-under review
+Published in <i>Transactions of Association for Computational Linguistics (TACL), </i>: 11, 139 – 156. (also presented at EACL 2023)
 
 9. [Data Augmentation and Learned Layer Aggregation for Improved Multilingual Language Understanding in Dialogue](https://aclanthology.org/2022.findings-acl.160/)<br/>
 **Evgeniia Razumovskaia**, Ivan Vulić and Anna Korhonen<br/> 
 Published in <i>Findings of 
-the Association for Computational Linguistics (ACL), </i> 2017–2033, 2022.
+the Association for Computational Linguistics (ACL 2022), </i> 2017–2033, 2022.
 
 
 8. [Natural Language 
 Processing for Multilingual Task-Oriented Dialogue](https://aclanthology.org/2022.acl-tutorials.8/)<br/>
 **Evgeniia Razumovskaia**, Goran Glavaš, Olga Majewska, Edoardo M. Ponti, and Ivan Vulić <br/>
-Published in <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL): Tutorial Abstracts,</i> 44–50, 2022.
+Published in <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022): Tutorial Abstracts,</i> 44–50, 2022.
 
 7. [Crossing the Conversational Chasm: A Primer on Natural Language Processing for Multilingual Task-Oriented Dialogue Systems](https://www.jair.org/index.php/jair/article/view/13083)<br/>
 **Evgeniia Razumovskaia**, Goran Glavaš, Olga Majewska, Edoardo M. Ponti, Anna Korhonen and Ivan Vulić <br/>
@@ -38,7 +47,7 @@ Published in <i>Conversational AI 3 workshop at NeurIPS 2019: “Today's Practic
 5. [Pretraining Methods for Dialog Context Representation Learning.](https://www.aclweb.org/anthology/P19-1373.pdf)<br/> 
 Mehri, S.*, **Razumovskaia, E.\***, Zhao, T. and Eskenazi, M. <br/>
 Published in <i>Proceedings of the 57th Annual Meeting of the Association
-for Computational Linguistics (ACL)</i>, 3836-3846, 2019.
+for Computational Linguistics (ACL 2019)</i>, 3836-3846, 2019.
 
 4. [Beyond Turing: Intelligent Agents Centered on the User](https://arxiv.org/abs/1901.06613)<br/> 
 Eskenazi, M., Mehri, S., **Razumovskaia, E.**, and Zhao, T.<br/>
