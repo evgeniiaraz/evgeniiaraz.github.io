@@ -11,9 +11,13 @@ comments: false
 
 ## Publications
 
-12. Transfer-Free Data-Efficient Multilingual Slot Labeling<br/>
+13. [<i>Dial BeInfo for Faithfulness</i>: Improving Factuality of Information-Seeking Dialogue via Behavioural Fine-Tuning](https://aclanthology.org/2024.findings-emnlp.998/)<br/>
+<b>Evgeniia Razumovskaia</b>, Ivan Vulić, Pavle Marković, Tomasz Cichy, Qian Zheng, Tsung-Hsien Wen, Paweł Budzianowski.<br/>
+Published in <i>Findings of the Association for Computational Linguistics: EMNLP 2024</i>, 17139-17152, 2024.
+
+12. [Transfer-Free Data-Efficient Multilingual Slot Labeling](https://aclanthology.org/2023.emnlp-main.369/)<br/>
 <b>Evgeniia Razumovskaia</b>, Ivan Vulić, and Anna Korhonen.<br/>
-Published in <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)</i>, to appear.
+Published in <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)</i>, 6041-6055, 2023.
 
 11. [Multi3NLU++: A Multilingual, Multi-Intent, Multi-Domain Dataset for Natural Language Understanding in Task-Oriented Dialogue](https://aclanthology.org/2023.findings-acl.230.pdf)<br/>
 Nikita Moghe, <b>Evgeniia Razumovskaia</b>, Liane Guillou, Ivan Vulić, Anna Korhonen, Alexandra Birch<br/>
