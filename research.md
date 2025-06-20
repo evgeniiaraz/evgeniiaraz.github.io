@@ -84,6 +84,11 @@ Published in <i>IFIP TC3 Working Conference
 Computing and next Generations” Proceedings</i>, 285-297, 2015. 
 
 
+## Thesis
+
+[Advancing Language Equity and Sample Efficiency in Task-Oriented Dialogue Systems](https://www.repository.cam.ac.uk/items/5d42872e-5af8-4350-a7bf-15d1cd2b310c), 2024.
+
+
 ## Talks
 
 3. Building Task-Oriented Dialogue Systems with Scarce Resources<br/>
