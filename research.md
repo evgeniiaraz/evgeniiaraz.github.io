@@ -11,9 +11,18 @@ comments: false
 
 ## Publications
 
+15. Analyzing and Adapting Large Language Models for Few-Shot
+Multilingual NLU: Are We There Yet?<br/>
+<b>Evgeniia Razumovskaia</b>, Ivan Vulić, Anna Korhonen.<br/>
+Published in <i>Transactions of Association for Computational Linguistics (TACL), </i>: to appear. 2025.
+
+14. [SQATIN: Supervised Instruction Tuning Meets Question Answering for Improved Dialogue NLU](https://aclanthology.org/2024.naacl-long.453/)<br/>
+<b>Evgeniia Razumovskaia</b>, Goran Glavaš, Anna Korhonen, Ivan Vulić.<br/>
+Published in <i>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2024)</i>, 8188-8204, 2024.
+
 13. [<i>Dial BeInfo for Faithfulness</i>: Improving Factuality of Information-Seeking Dialogue via Behavioural Fine-Tuning](https://aclanthology.org/2024.findings-emnlp.998/)<br/>
 <b>Evgeniia Razumovskaia</b>, Ivan Vulić, Pavle Marković, Tomasz Cichy, Qian Zheng, Tsung-Hsien Wen, Paweł Budzianowski.<br/>
-Published in <i>Findings of the Association for Computational Linguistics: EMNLP 2024</i>, 17139-17152, 2024.
+Published in <i>Findings of 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</i>, 17139-17152, 2024.
 
 12. [Transfer-Free Data-Efficient Multilingual Slot Labeling](https://aclanthology.org/2023.emnlp-main.369/)<br/>
 <b>Evgeniia Razumovskaia</b>, Ivan Vulić, and Anna Korhonen.<br/>
